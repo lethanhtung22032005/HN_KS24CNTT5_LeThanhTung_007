@@ -1,14 +1,12 @@
 import './App.css'
-import TodoList from './component/de007'
+import BlogApp from './component/de007'  
 
 function App() {
-
   return (
     <>
-      <TodoList></TodoList>
+      <BlogApp />
     </>
   )
 }
 
 export default App
-
